@@ -9,7 +9,7 @@ Amazon CloudFront – to distribute content globally with low latency
 
 AWS IAM – to manage access and permissions securely
 
-📂 Project Structure
+##📂 Project Structure
 /
 ├── index.html          # The primary HTML file (homepage)
 ├── /img                # Directory containing background and image assets
